@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+tempCodeRunnerFile.py
+
+# C++ build files
+*.exe
+*.o
+*.obj
+*.out
+build/
+
+# ATM runtime data
+users.txt
+*_transactions.txt
+
+# Editors
+.vscode/
+.idea/
+
+# Operating systems
+.DS_Store
+Thumbs.db
